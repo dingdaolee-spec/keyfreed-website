@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://dingdaolee-spec.github.io/keyfreed-website/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://dingdaolee-spec.github.io/keyfreed-website/what-is-keyfreed.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
-  </url>
-  <url>
-    <loc>https://dingdaolee-spec.github.io/keyfreed-website/fruit-piano.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
-  </url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/what-is-keyfreed.html</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/projects.html</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/fruit-piano.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/water-level-sensor.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/wire-maze.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/scratch-physical-computing.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/keyfreed-vs-makey-makey.html</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/school-tech-fair-projects.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://dingdaolee-spec.github.io/keyfreed-website/faq.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
 </urlset>

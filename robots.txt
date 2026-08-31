@@ -7,4 +7,4 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://dingdaolee-spec.github.io/keyfreed-website/sitemap.xml

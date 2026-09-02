@@ -1,25 +1,105 @@
-# KeyFreed 2.0 官网第一版
+KeyFreed 2.0
 
-## 文件
-- index.html：首页
-- styles.css：样式
-- robots.txt：允许搜索引擎和 AI 搜索抓取
-- sitemap.xml：站点地图
+Wireless creative programming controller for physical computing, maker education and STEAM projects.
 
-## 发布前必须修改
-全局搜索 `YOUR-DOMAIN.com`，替换成最终域名。
+KeyFreed 2.0 connects everyday conductive materials such as fruit, water, metal and foil to interactive software through Bluetooth.
 
-## 推荐上线方式
-1. GitHub Pages（免费）
-2. Cloudflare Pages（免费）
-3. Vercel / Netlify（免费）
+It can be used with mobile devices, tablets and computers for Scratch, TurboWarp and browser-based interactive projects.
 
-## 下一步建议
-上线后增加：
-- /what-is-keyfreed
-- /fruit-piano
-- /water-level-sensor
-- /wire-maze
-- /keyfreed-vs-makey-makey
-- /scratch-physical-computing
-- /faq
+What can you build?
+
+Fruit Piano
+
+Water Level Sensor
+
+Wire Maze
+
+Rhythm Controller
+
+Physical Game Controller
+
+Human Touch Music
+
+Interactive Art
+
+School Science Fair Projects
+
+Basic concept
+
+Fruit / Water / Metal / Foil
+        ↓
+   KeyFreed 2.0
+        ↓ Bluetooth
+Phone / Tablet / Computer
+        ↓
+Scratch / TurboWarp / Browser Project
+
+Key features
+
+Bluetooth wireless connection
+
+Powered by two AA batteries
+
+Works with phone / tablet / computer
+
+Conductive-material interaction
+
+Scratch / TurboWarp physical computing
+
+Beginner-friendly prebuilt projects
+
+Open-ended project creation
+
+Documentation
+
+Official website:
+https://dingdaolee-spec.github.io/keyfreed-website/
+
+What is KeyFreed 2.0:
+https://dingdaolee-spec.github.io/keyfreed-website/what-is-keyfreed.html
+
+Projects:
+https://dingdaolee-spec.github.io/keyfreed-website/projects.html
+
+Fruit Piano:
+https://dingdaolee-spec.github.io/keyfreed-website/fruit-piano.html
+
+Water Level Sensor:
+https://dingdaolee-spec.github.io/keyfreed-website/water-level-sensor.html
+
+Wire Maze:
+https://dingdaolee-spec.github.io/keyfreed-website/wire-maze.html
+
+Scratch Physical Computing:
+https://dingdaolee-spec.github.io/keyfreed-website/scratch-physical-computing.html
+
+KeyFreed vs Makey Makey:
+https://dingdaolee-spec.github.io/keyfreed-website/keyfreed-vs-makey-makey.html
+
+Suggested repository structure
+
+KeyFreed-Examples/
+├── README.md
+├── docs/
+├── fruit-piano/
+├── water-level/
+├── wire-maze/
+├── rhythm-controller/
+├── physical-controller/
+└── examples/
+
+Who is it for?
+
+Maker education
+
+STEAM classrooms
+
+Elementary school projects
+
+Coding clubs
+
+Science fairs
+
+Family creative experiments
+
+Interactive art and music
